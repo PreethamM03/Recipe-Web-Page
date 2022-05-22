@@ -1,0 +1,56 @@
+.desc-text {
+    margin-left: 25px;
+    text-indent: 30px;
+}
+.recipe a {
+    text-align: center;
+    background-color: rgb(68, 149, 149);
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+}
+
+.recipe a:hover {
+    background-color: rgb(76, 76, 235)!important;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    background-color: rgb(34, 34, 57);
+    margin: 0;
+    padding: 15px;
+    border: 0ch;
+    color: teal;
+    text-align: center;
+}
+.main {
+    text-align: center;
+}
+h2 {
+    color: rgb(4, 149, 149);
+}
+li {
+    color: rgb(27, 17, 80);
+}
+p {
+    color: rgb(27, 17, 80);
+
+}
+a {
+    color: rgb(99, 46, 148);
+}
+
+html {
+    background-color: #96a1ad;
+    margin: 0;
+    box-sizing: border-box;
+
+}
